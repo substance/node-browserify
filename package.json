@@ -53,7 +53,7 @@
     "querystring-es3": "~0.2.0",
     "read-only-stream": "^2.0.0",
     "readable-stream": "^2.0.2",
-    "resolve": "substance/node-resolve/#2ff5733a59e8a38c5766980ed96383e02c355506",
+    "resolve": "substance/node-resolve#2ff5733a59e8a38c5766980ed96383e02c355506",
     "shasum": "^1.0.0",
     "shell-quote": "^1.4.3",
     "stream-browserify": "^2.0.0",
